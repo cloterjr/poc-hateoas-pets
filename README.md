@@ -1,2 +1,5 @@
-# poc-hateoas-pets
-This is a POC project to validate and study the HATEOAS implementation on spring rest api
+#### Exemplo
+```
+# h2 console
+http://localhost:8080/h2-console
+```
